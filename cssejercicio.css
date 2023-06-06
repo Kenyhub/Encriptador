@@ -1,0 +1,59 @@
+.todo{
+background-color: wheat;
+margin-bottom: -10px;
+margin-top: 0px;
+padding-bottom: 32px;
+opacity: 70%;
+}
+
+.home{
+  font-size: 300%;
+  position: relative;  
+  left: 90%;
+  font-style: oblique;
+  color: maroon;
+
+}
+
+.textomensaje{
+  margin-top: -40px;
+}
+
+.mensaje{
+text-align: center;
+font-size: 700%;
+color: maroon;
+position: relative;
+top: -10px;
+}
+
+.mensajedos{
+text-align: center;
+font-size: 260%;
+margin-top: -60px;
+font-style: italic;
+}
+
+.parrafo{
+  text-align: center;
+  font-size: 229%;
+  font-style: italic;
+  color: sienna;
+}
+
+.verificar{
+text-align: center;
+font-size: 200%;
+margin-top: 90px;
+margin-bottom: 6px;
+color: sienna;
+}
+
+.link{
+position: relative;  
+left: 46%;
+font-size: 200%;
+color: sandybrown;
+padding-bottom: 10px;
+
+}

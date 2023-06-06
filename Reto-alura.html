@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Reto Encriptador</title>
+	<link rel="stylesheet" href="reset.css">
+	<link rel="stylesheet" href="cssencriptador.css">
+	<script src="java.js"></script>
+</head>
+
+<body>
+	<section>
+		<div class="contenedor">
+			<img class="tercera1" src="tercera.png">
+			<img class="primer" src="encriptado.png" align="center">
+			<img class="tercera2" src="tercera.png">
+			<ul>
+				<li class="IndexEncriptador"><a href="Reto-alura.html"> Encriptador </a></li>
+				<li class="IndexEncriptadorHome"><a href="Index.html"> Home </a></li>
+				<li class="IndexEjercicio"><a href="Ejercicio.html"> Ejercicio</a></li>
+			</ul>
+		</div>
+	</section>
+	<div class="conten">
+	<input type="text" id="textoEncriptado">
+	<textarea name="resultado" id="textoDesencriptado" ></textarea>
+	</div>
+
+	<button type="button" id="botonEncriptado">Encriptar</button>
+	<button type="button" id="botonDesencriptado">Desencriptar</button>
+	<button type="button" id="botonCopiar">Copiar</button>
+	<footer> 
+		<h3 class="datos">&#x21a0;Datos de la persona que desarrolló el sitio web&#x219e;</h3>
+		<p class="nombre">&#9812;Kenia Lorena Medrano Vergara<br></p>
+		<p class="lista">&#9822;25 años<br>
+			&#9822;Futura Desarrolladora Back-End<br></p>
+	</footer>
+
+	<script>
+		var btn = document.querySelector("#botonEncriptado");
+		btn.onclick = Encriptar;
+		var btn2 = document.querySelector("#botonDesencriptado");
+		btn2.onclick = Desencriptar;
+		var btn3 = document.querySelector("#botonCopiar");
+		btn3.onclick = copiar;
+	</script>
+</body>
+
+</html>

@@ -1,0 +1,192 @@
+
+.contenedor{
+background-color: white;
+width: 99%;
+position: relative;
+top: 10%;
+bottom: 20%;
+top: -8px;
+padding-bottom: 60px;
+}
+
+
+.contenedor{
+  display: flex;
+  justify-content: center;
+  padding-block-start: 0;
+  height: 30%;,
+}
+
+
+.primer{
+  position: relative;
+  right: -6% ;
+  width: 60%;
+  height: 100%;
+}
+
+.tercera1{
+position: relative;
+  left: 6% ;
+}
+
+.tercera2{
+position: relative;
+  left: 6% ;
+}
+.IndexEncriptador{
+  position: relative;
+  top: 168px;
+  font-size: 160%;
+  right:790%;
+  list-style: none;
+  color: sandybrown;
+
+}
+
+.IndexEncriptadorHome{
+  position: relative;
+  top: 140px;
+  font-size: 160%;
+  right: 500%;
+  list-style: none;
+  text-decoration: none;
+}
+
+.IndexEjercicio{
+  position: relative;
+  bottom: -112px;
+  font-size: 160%;
+  right: 250%;
+  list-style: none;
+  text-decoration: none;
+}
+
+body{
+  position: relative;
+}
+
+#textoEncriptado{
+font-family: 'Source Sans Pro', sans-serif; font-size: 23px; color: purple;
+max-width: 400px;
+width: 400px; 
+height: 450px;
+position: relative;
+top: -230px;
+right: -70px;
+border-width: 10px;
+border-color: pink;
+background-color: cornsilk
+}
+
+position: relative;
+top: 2px;
+}
+.conten{
+  position: relative;
+}
+
+#textoDesencriptado{
+font-family: 'Source Sans Pro', sans-serif; 
+font-size: 180%; color: peru;
+width: 400px;
+height: 450px;
+resize: none;
+background-color: lightyellow;
+position: relative;
+bottom: 1px;
+left: 100px;
+border-width: 10px;
+border-color: pink;
+background-color: cornsilk
+}
+
+#botonEncriptado{
+font-size: 180%; color: peru;
+background-color: lightyellow;
+position: relative;
+width: 250px;
+height: 90px;
+bottom: 700px;
+right: -1000px;
+border-radius: .2em;
+border-color:  rebeccapurple ; 
+border-block-style: dashed;
+border-width: 7px;
+}
+
+#botonDesencriptado{
+font-size: 180%; color: peru;
+background-color: lightyellow;
+position: relative;
+width: 250px;
+height: 90px;
+bottom: 600px;
+left: 746px;
+border-radius: .2em;
+border-color:  rebeccapurple ; 
+border-block-style: dashed;
+border-width: 7px;
+}
+
+
+#botonCopiar{
+font-size: 200%; color: darkkhaki;
+width: 220px;
+height: 70px;
+bottom: 450px;
+left: 38%;
+position: relative;
+border-radius: 1em;
+border-color: lawngreen;
+border-block-style: solid; border-block: peru;
+border-width: 7px;
+background-color: lightyellow;
+}
+
+
+
+
+
+
+
+footer{
+margin-top: 2%;
+padding-top:0px;
+padding-right: 0px;
+background: #FAF0E6;
+border-radius: 1em;
+margin: 0px;
+text-align: center;
+display: inline-block ;
+position: relative;
+top: -150px;
+left: 2%;
+font-size: 15px;
+border-style: ridge;
+border-color:#FBCEB1    ;
+border-width: 9px;
+}
+
+.datos{
+  font-size: 140%;
+  font-style: oblique;
+  color: #778899;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px pink, 0 0 1em blueviolet, 0 0 0.2em burlywood;
+
+}
+
+.nombre{
+  font-style: oblique;
+  color: #BC8F8F;
+  font-weight: bold;
+  font-size: 106%;
+}
+
+.lista{
+font-style: oblique;
+text-align: left;
+padding-left:46% ;
+color: #BC8F8F;
+}

@@ -1,0 +1,127 @@
+
+.contenedor{
+background-color: white;
+width: 90%;
+position: relative;
+top: 10%;
+bottom: 20%;
+top: -8px;
+padding-bottom: 40px;
+}
+
+.fondo{
+width: 110%;
+background-color: pink;
+opacity: 90%;
+position: relative;
+}
+
+.contenedor{
+  display: flex;
+  justify-content: center;
+  padding-block-start: 0;
+  height: 30%;,
+}
+
+
+.primer{
+  position: relative;
+  right: -1.9% ;
+	width: 50%;
+	height: 100%;
+}
+
+.tercera1{
+position: relative;
+  left: -1% ;
+}
+
+.tercera2{
+position: relative;
+  left: 7% ;
+}
+
+.IndexEncriptador{
+  position: relative;
+  top: 168px;
+  font-size: 160%;
+  right:800%;
+  list-style: none;
+  text-decoration: none;
+
+}
+
+.IndexEncriptadorHome{
+  position: relative;
+  top: 140px;
+  font-size: 160%;
+  right: 510%;
+  list-style: none;
+  text-decoration: none;
+}
+
+.IndexEjercicio{
+  position: relative;
+  bottom: -112px;
+  font-size: 160%;
+  right: 270%;
+  list-style: none;
+  text-decoration: none;
+}
+
+
+
+.reglas{
+  background-repeat: no-repeat;
+  background-size: 90%;
+  margin-left: 0%;
+  margin-right: -0%;
+  margin-top: -1%;
+  margin-bottom: -1% ;  
+  padding-bottom: 2%;
+  background-image: url("https://t3.ftcdn.net/jpg/03/29/85/54/360_F_329855414_YjNZJrRg3onRsdXdOPGTNICPvIBGhSb6.jpg")
+
+   }
+
+
+.desafio{
+margin-left: 33% ;
+display: inline-block;
+color: #452c63;
+font-size: 100%;
+padding: 10px 60px 5px 60px;
+border-style: double;
+border-color: aquamarine;
+border-width: 7px;
+background-color: #FFFDD0  ;
+border-radius: 10%;
+margin-top: 1.5% ;
+margin-bottom: 1%;
+}
+
+
+.sobre{
+color: #93C572 ;
+text-shadow: 2px 2px 4px orange, 0 0 1em pink, 0 0 0.2em pink;
+font-size: 200%;
+display: inline-block;
+font-style: oblique;
+
+}
+
+.fondo{
+  display: inline-block;
+  background-repeat: no-repeat;
+  border-width: 1000%;
+}
+
+
+.color{
+  color:gray;
+  display: inline-block;
+  text-align: left;
+  font:#191970;
+  font-size: 113%;
+  border: 10%;
+}
+
